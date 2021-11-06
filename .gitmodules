@@ -1,0 +1,3 @@
+[submodule "lib/discord-c"]
+    path = lib/discord-c
+    url = https://github.com/RealAlpha/discord-c
